@@ -10,15 +10,15 @@ public:
     int maxValue(vector<vector<int>>& grid) {
         int n=grid.size();
         int m=grid[0].size();
-        vector<vector<int>>DP(n+1,vector<int>(m+1,0));
+        vector<int>DP(m+1,0);
         for(int i=1;i<=n;++i)
         {
             for(int j=1;j<=m;++j)
             {
-                DP[i][j]=max(DP[i][j-1],DP[i-1][j])+grid[i-1][j-1];
+                DP[j]=max(DP[j-1],DP[j])+grid[i-1][j-1];
             }
         }
-        return DP[n][m];
+        return DP[m];
     }
 };
 int main() {
