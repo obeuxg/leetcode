@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/O50.dir/main.cpp.o -o O50 
