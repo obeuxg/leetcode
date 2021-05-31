@@ -1,0 +1,3 @@
+/home/obeux/CLionProjects/leetcode/T31/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/obeux/CLionProjects/leetcode/T31/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/obeux/CLionProjects/leetcode/T31/cmake-build-debug/CMakeFiles/T31.dir

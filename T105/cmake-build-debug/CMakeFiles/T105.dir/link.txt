@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/T105.dir/main.cpp.o -o T105 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/T73.dir/main.cpp.o -o T73 

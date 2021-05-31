@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/O44.dir/main.cpp.o -o O44 

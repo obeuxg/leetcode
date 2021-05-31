@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/O20.dir/main.cpp.o -o O20 

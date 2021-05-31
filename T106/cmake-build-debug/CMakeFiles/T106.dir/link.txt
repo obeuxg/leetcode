@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/T106.dir/main.cpp.o -o T106 
