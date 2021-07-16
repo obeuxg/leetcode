@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/T204.dir/main.cpp.o -o T204 
